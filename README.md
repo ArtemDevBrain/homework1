@@ -33,6 +33,7 @@ https://cloud.githubusercontent.com/assets/21219096/20199318/56e3d9e0-a7b2-11e6-
 ## 9.
 Взяв і створив новий repo ArtemNovorai.oi, склонував його "git clone HTTP"
 Додав туди 2 файли (DooM.txt, file.html) і додав їх через консольку. потім закомітив і пушнув.Зробив новий репозиторій testing-the-github-pages додав файли. Зробив бренчу з назвою  "gh-pages" і зробив її дефолтною через налаштування. Потоім додав файл (Doom.txt) закомітив і пушнув. І зробив пулл реквест.
+
 https://github.com/ArtemDevBrain/ArtemNovorai.oi - перший репо
 https://github.com/ArtemDevBrain/testing-the-github-pages - другий репозиторій
 https://github.com/ArtemDevBrain/testing-the-github-pages/issues/3
