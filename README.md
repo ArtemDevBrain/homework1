@@ -31,4 +31,4 @@ https://github.com/ArtemDevBrain/hello-world-github/issues/2 -зміна фай�
 https://cloud.githubusercontent.com/assets/21219096/20199318/56e3d9e0-a7b2-11e6-9854-860eff30ca2d.png 
 
 ## 9.
-http://artemdevbrain.github.io/testing-the-github-pages1
+http://ArtemDevBrain.github.io/testing-the-github-pages1
