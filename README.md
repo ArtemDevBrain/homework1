@@ -15,6 +15,7 @@ https://github.com/ArtemDevBrain/testing-the-github-pages/issues/4
 
 ## 5.
 https://github.com/ArtemDevBrain/testing-the-github-pages/issues/5
+https://github.com/ArtemDevBrain/homework1-VCS/issues/2
 
 
 ## 6.
