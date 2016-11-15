@@ -6,7 +6,8 @@
 https://github.com/ArtemDevBrain - це мій лінк на мій profile. Відправив запит, що додали мене до organization.https://cloud.githubusercontent.com/assets/21219096/20190954/2917a756-a78c-11e6-992a-f3e30df13bca.png
 
 ## 3.
-https://cloud.githubusercontent.com/assets/21219096/20191162/1674f2f6-a78d-11e6-96e4-d67821cfcd4f.png - це лінк на то, як я зайшов в папку everything/ і зробив зміни додавши новий файл Goooooood.txt 
+https://cloud.githubusercontent.com/assets/21219096/20191162/1674f2f6-a78d-11e6-96e4-d67821cfcd4f.png- це лінк на то, як я зайшов в папку everything/ і зробив зміни додавши новий файл Goooooood.txt
+-https://github.com/cursor-education/welcome-to-github/pull/203 - лінк на пулл
 
 ## 4.
        Congratulations my friend. You are Hit Hubs hacker =p
