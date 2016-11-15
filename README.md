@@ -1,6 +1,6 @@
 
 ## 1.
-Зробив fork (https://github.com/cursor-education/welcome-to-github).За допомогою нього я зробив точну копію оригінального репо. Відправив pull request на cursor-education/welcome-to-github. Натиснув  "Merge pull request", щоб зєднатись і" Confirm merge"  і підтвердив злиття.
+Зробив fork ( https://github.com/cursor-education/welcome-to-github ) За допомогою нього я зробив точну копію оригінального репо. Відправив pull request на cursor-education/welcome-to-github. Натиснув  "Merge pull request", щоб зєднатись і" Confirm merge"  і підтвердив злиття.
 
 ## 2.
 https://github.com/ArtemDevBrain - це мій лінк на мій profile. Відправив запит, що додали мене до organization.https://cloud.githubusercontent.com/assets/21219096/20190954/2917a756-a78c-11e6-992a-f3e30df13bca.png
