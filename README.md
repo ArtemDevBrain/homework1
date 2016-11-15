@@ -31,6 +31,7 @@ https://github.com/ArtemDevBrain/hello-world-github/issues/2 -зміна фай�
 ## 8.
 Спочатку створив репо, потім створив 4 фали .html .css  .js  .txt(4-й як бонус).Зафіксувався в папці git init , git status - подивились, які файли готові додатись. Додав їх за допомогою git add . -всі файли. Зробив commit i push=)
 https://cloud.githubusercontent.com/assets/21219096/20199318/56e3d9e0-a7b2-11e6-9854-860eff30ca2d.png 
+https://github.com/ArtemDevBrain/hello-world-git
 
 ## 9.
 http://ArtemDevBrain.github.io/testing-the-github-pages1
